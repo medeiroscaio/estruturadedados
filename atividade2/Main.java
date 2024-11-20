@@ -1,3 +1,5 @@
+package estruturadedados.atividade2;
+
 public class Main {
     public static void main(String[] args) {
         GerenciadorDePedidos gerenciador = new GerenciadorDePedidos(10);

@@ -1,3 +1,5 @@
+package estruturadedados.atividade2;
+
 public class Pedido {
     private int id;
     private String descricao;

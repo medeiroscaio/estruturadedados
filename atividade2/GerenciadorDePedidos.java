@@ -1,3 +1,5 @@
+package estruturadedados.atividade2;
+
 public class GerenciadorDePedidos {
     private Pedido[] filaPedidos;
     private int tamanho;
